@@ -1,1 +1,2 @@
 # Digital-Registration
+EventRegistration
